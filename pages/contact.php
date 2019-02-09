@@ -1,9 +1,9 @@
 <?php
-	$title = 'main';
+	$title = 'contact';
 	function loadContent() {
 ?>
 
-<h2>Main page</h2>
+<h2>Contacts</h2>
 
 <?php
 	}
